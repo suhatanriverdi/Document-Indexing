@@ -4,8 +4,8 @@ This system allows users to enter a single word, then returns a list of document
 
 ## Usage
 Document Indexing System was written by using Visual Studio (version 2017) that's why you'll need Visual Studio or Dev C++.
-To start using with Visual Studio, after downloading all files to the same directory,
-Just open the file named **"Source.sln"** with Visual Studio and Follow these steps;
+To start using with Visual Studio, after downloading **Document Indexing.rar**, Extract **Document Indexing Folder** to any directory,
+and open the file named **"Source.sln"** with Visual Studio and Follow these steps;
 
 ![sample 11](https://user-images.githubusercontent.com/36234545/39473818-70be27aa-4d59-11e8-9039-8c9a0b440cdc.png)
 
